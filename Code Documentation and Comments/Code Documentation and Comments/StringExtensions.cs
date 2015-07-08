@@ -312,7 +312,6 @@
         /// </summary>
         /// <param name="input">The string on which the method to be invoked.</param>
         /// <returns>Returns a byte array of the input string</returns>
-
         public static byte[] ToByteArray(this string input)
         {
             var bytesArray = new byte[input.Length * sizeof(char)];
