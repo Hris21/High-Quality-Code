@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{8151444E-B805-4D28-85E8-92FB067DA27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetExample", "Log4NetExample\Log4NetExample.csproj", "{F82E9B5A-7C6F-4A32-858C-F8C780CA261A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T4TemplateExample", "T4TemplateExample\T4TemplateExample.csproj", "{FCC0794A-3166-42CF-8994-8FE475A4C87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8151444E-B805-4D28-85E8-92FB067DA27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8151444E-B805-4D28-85E8-92FB067DA27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8151444E-B805-4D28-85E8-92FB067DA27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8151444E-B805-4D28-85E8-92FB067DA27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82E9B5A-7C6F-4A32-858C-F8C780CA261A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82E9B5A-7C6F-4A32-858C-F8C780CA261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82E9B5A-7C6F-4A32-858C-F8C780CA261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82E9B5A-7C6F-4A32-858C-F8C780CA261A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC0794A-3166-42CF-8994-8FE475A4C87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC0794A-3166-42CF-8994-8FE475A4C87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC0794A-3166-42CF-8994-8FE475A4C87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC0794A-3166-42CF-8994-8FE475A4C87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

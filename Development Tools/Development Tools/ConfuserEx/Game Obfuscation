@@ -1,0 +1,6 @@
+<project outputDir="C:\Users\Grisword\Desktop\Aim-for-the-hole-master\Aim-for-the-hole-master\AFTH\Game\bin\Debug\Confused" baseDir="C:\Users\Grisword\Desktop\Aim-for-the-hole-master\Aim-for-the-hole-master\AFTH\Game\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <packer id="compressor" />
+  <module path="Game.exe">
+    <rule pattern="true" preset="normal" inherit="false" />
+  </module>
+</project>
